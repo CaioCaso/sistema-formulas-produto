@@ -1,0 +1,15 @@
+# Java compilado
+*.class
+out/
+target/
+
+# Banco local SQLite
+produto.db
+produto.db-shm
+produto.db-wal
+
+# Configurações locais de ferramentas
+.idea/
+.vscode/
+*.log
+
